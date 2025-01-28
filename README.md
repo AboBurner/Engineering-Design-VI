@@ -2,7 +2,10 @@
 Hello Friend
 
 # H1 Welcome to Design VI
+> I pledge my honor that I have abided by the Stevens Honor Code System
 
+**Syllabus**
+---
 [Syllabus]([https://www.example.com](https://sit.instructure.com/courses/77142))
 
 **Labs**
@@ -18,21 +21,21 @@ Hello Friend
 10. Lab 10
 
 *Homework*
-1. Week 1
-2. Week 2
-3. Week 3
-4. Week 4
-5. Week 5
-6. Week 6
-7. Week 7
-8. Week 8
-9. Week 9 
-10. Week 10
-11. Week 11
-12. Week 12
-13. Week 13
-14. Week 14
-15. Week 15
+- Week 1
+- Week 2
+- Week 3
+- Week 4
+- Week 5
+- Week 6
+- Week 7
+- Week 8
+- Week 9 
+- Week 10
+- Week 11
+- Week 12
+- Week 13
+- Week 14
+- Week 15
 
 **Basic Syntax**
 ---
