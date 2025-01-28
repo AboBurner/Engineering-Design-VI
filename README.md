@@ -4,6 +4,7 @@ Hello Friend
 # H1 Welcome to Design VI
 > I pledge my honor that I have abided by the Stevens Honor Code System
 
+`Intro`
 [Intro](https://youtu.be/iv8rSLsi1xo?si=bC2glhovNoAVGsYO) 
 
 **Labs**
