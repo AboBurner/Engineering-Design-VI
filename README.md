@@ -35,4 +35,5 @@ Hello Friend
 15. Week 15
 
 **Basic Syntax**
+---
 ![Basic Syntax](https://github.com/user-attachments/assets/b67af6ae-f7bb-4ed9-930e-24effbe08de7)
