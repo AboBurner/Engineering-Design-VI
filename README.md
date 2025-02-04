@@ -5,7 +5,7 @@ Hello Friend
 > I pledge my honor that I have abided by the Stevens Honor Code System
 
 `Intro` 
-[Video](https://youtu.be/iv8rSLsi1xo?si=bC2glhovNoAVGsYO) 
+[Video]([https://youtu.be/iv8rSLsi1xo?si=bC2glhovNoAVGsYO](https://sites.google.com/stevens.edu/cpe322-group/home) 
 
 **Labs**
 1. Lab 1
@@ -21,6 +21,7 @@ Hello Friend
 
 *Homework*
 - Week 1
+  [Assignment1](https://youtu.be/iv8rSLsi1xo?si=bC2glhovNoAVGsYO)
 - Week 2
 - Week 3
 - Week 4
